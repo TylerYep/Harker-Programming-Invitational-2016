@@ -1,0 +1,7 @@
+5
+0
+ADD 2
+ADD 3
+DIV 5
+MUL 20
+COB 4
